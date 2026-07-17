@@ -1,3 +1,5 @@
 # Third-Party COTS Software Secure Acquisition Plan
 
 This project is a secure acquisition and risk mitigation plan developed as an academic and portfolio sample. It is based on a case-study scenario involving a fictional company, Wild Blue Yonder Technologies (WBYT) and a GPS/Control Display Unit (CDU) modernization effort for the United States Air Force.
+
+This plan was developed utilizing guiding standards and regulations provided directly from the United States Department of Defense, NIST 800-53, ISO, and NISTIR 7622. 
