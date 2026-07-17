@@ -1,45 +1,33 @@
 # grc-portfolio
 
-This repository contains sample Governance, Risk, and Compliance (GRC) deliverables designed to demonstrate practical experience in third-party risk, control mapping, risk assessment, policy development, and security documentation. Some deliverables have been fictionalized or sanitized and reflect the types of work performed in consulting and GRC-focused environments.
+This repository contains selected cybersecurity and Governance, Risk, and Compliance (GRC) projects that demonstrate practical experience in risk analysis, secure systems planning, and security program support. The work reflects hands-on documentation and case-based assessments focused on identifying risk, evaluating controls, and recommending safeguards aligned with organization-specific needs.
 
-## What This Portfolio Demonstrates
 
-- Third-party risk assessment
-- Risk analysis and remediation planning
-- Control mapping aligned to NIST 800-53, NIST CSF, ISO 27001, and FERPA
-- Policy and governance documentation
-- Audit-ready evidence tracking and structured reporting
+## Featured Projects
 
-## Projects
+### Web Application Risk Matrix
+This project presents a structured risk matrix for a web application environment. It identifies key threats, assesses likelihood and impact, and prioritizes risk to support more informed security decision-making, with industry-specific compliance regulations in mind. 
 
-### 1. Third-Party Risk Assessment
-A sample third-party/vendor risk assessment package that includes vendor profiling, risk ratings, control observations, and remediation recommendations.
+### Defense in Depth Plan for the Software Development Lifecycle: Case Study
+This project outlines a defense-in-depth strategy for the implementation of a new Software Development Lifecycle (SDLC) in a case-study environment. It focuses on layered security controls, governance structure, operational coordination, and protection of critical enterprise systems.
 
-### 2. Risk Register & Control Mapping
-A structured risk register and control matrix showing how identified risks map to relevant security and compliance frameworks.
+### Third-Party Software Secure Acquisition Plan: Case Study
+This project provides a secure acquisition plan for a Commercial Off-The-Shelf (COTS) product for the United States Air Force in a case-study environment. This plan emphasizes vendor security, lifecycle considerations, procurement risk, and control requirements for acquiring technology in a more defensible and structured way.
 
-### 3. Policy & Governance Deliverables
-Sample governance and policy artifacts designed to support compliance maturity and operational consistency.
+## Skills Demonstrated
+- Third-Party Governance, Risk, and Compliance (GRC)
+- Risk assessment and risk prioritization
+- Defense-in-depth planning
+- Secure acquisition and third-party risk considerations
+- Security governance and documentation
+- Control evaluation and mitigation planning
 
-### 4. Web Risk Remediation
-A case-study style deliverable showing how public-facing web exposure was identified and reduced through remediation and redesign.
-
-## Frameworks & Focus Areas
-
-- NIST 800-53
-- NIST RMF
-- NIST CSF
-- ISO 27001
-- FERPA
-- Third-party risk management
-- Control assessments
-- Policy development
-- Audit readiness
-- Evidence collection
+## Repository Purpose
+This portfolio is intended to showcase cybersecurity and GRC-oriented work products in a clear, organized format. Each project folder contains supporting documentation and deliverables related to the assessment or plan described.
 
 ## Notes
 
-All materials in this repository are provided for professional portfolio purposes only. Client-sensitive information has been removed, and some scenarios have been fictionalized or generalized to preserve confidentiality.
+All materials in this repository are provided for professional portfolio purposes only. Client-sensitive information has been removed, and some scenarios have been fictionalized or generalized to preserve confidentiality. More projects can be provided upon request. 
 
 ## Contact
 
